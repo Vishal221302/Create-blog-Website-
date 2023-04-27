@@ -1,0 +1,216 @@
+body{
+    font-family: Poppins,sans-serif
+}
+.main_logo{
+    width:35%;
+}
+ul li{
+    padding: 15px;
+}
+ul li a{
+    font-size: 16px;
+    font-weight: 700;
+}
+.sliderC{
+    background-color: #f8f7f3;
+    padding: 48px;
+    color: black;
+}
+.carousel-caption{
+    left: 0% !important;
+    bottom: -37px !important;
+    right: 42% !important;
+    text-align: start !important;
+}
+.date_{
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+.heading_{
+    font-size: 25px;
+    font-weight: 600;
+}
+.paragraph_{
+    font-size: 18px;
+    word-spacing: 2px;
+}
+.news_trends{
+    font-weight: 600;
+    margin: 70px 0px 25px;
+    font-size: 25px;
+}
+.news_h{
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 11px;
+    line-height: 30px;
+}
+.news_p{
+    font-size: 18px;
+}
+.newsBottonMore{
+    text-align: center;
+    padding: 10px 0px 70px;
+}
+.my_button{
+    font-size: 18px;
+    font-weight: 500;
+    padding: 7px 37px;
+    border-radius: 0px;
+    background: #f8f7f3;
+    border-color: #ddd;
+}
+.lestes_p{
+    background: #f8f7f3;
+    list-style: none;
+    padding: 10px 15px;
+}
+.list_m{
+    border-bottom: 1px solid #ddd;
+}
+a.link_C{
+    text-decoration: none;
+    color: #000;
+}
+.search_i{
+    border-radius: 0px;
+    background-color: #f8f7f3;
+}
+.search_b{
+    border-radius: 0px;
+    background-color: #ffd46d !important;
+    padding: 10px 32px;
+}
+
+input.form-control.search_i {
+    width: 51%;
+    height: 46px;
+    padding: 0px 20px;
+
+}
+.form-inline{
+    margin: 30px 0px  80px;
+}
+.footer_sec{
+    background-color: #f8f7f3;
+    margin-top: 50px;
+    padding-top: 40px;
+}
+.subscribe_pa{
+    font-size: 18px;
+}
+.list_f{
+    border-bottom: 1px solid #ddd;
+}
+a.link_f{
+    text-decoration: none;
+    color: #000;
+    font-weight: 200;
+    font-size: 16px;
+}
+.lestes_f{
+    list-style: none;
+    margin-left: -50px;
+}
+.MunFarid_f{
+    font-weight: 600;
+}
+.top_f_menu{
+    font-size: 22px;
+    font-weight: 600;
+}
+a.social_icon {
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+}
+.social_list{
+    margin-top: 20px;
+}
+a.footer_bottom{
+    text-decoration: none;
+    color: black;
+}
+.categories_list{
+    margin-left: 45px;
+}
+input#name {
+    outline: none;
+    border: none;
+    background: #f8f7f3;
+    border-radius: 0px;
+    width: 100%;
+    height: 55px;
+    padding: 21px 25px;
+    margin: 25px 0px;
+}
+input#email {
+    outline: none;
+    border: none;
+    background: #f8f7f3;
+    border-radius: 0px;
+    width: 100%;
+    height: 55px;
+    padding: 21px 25px;
+    margin: 25px 0px;
+}
+textarea#message{
+    outline: none;
+    border: none;
+    background: #f8f7f3;
+    border-radius: 0px;
+}
+button.btn.btn-warning.send_mess {
+    padding: 13px 25px;
+    border-radius: 0px;
+}
+input[type="text"], textarea {
+    outline: none;
+    box-shadow:none !important;
+    border:none
+}
+input[type="search"] {
+    outline: none;
+    box-shadow:none !important;
+    border: none;
+}
+
+.border_left{
+    border-left: 5px solid orange;
+    padding-left: 20px;
+    font-size: 18px;
+    margin: 35px 0px;
+}
+.about_p{
+    font-size: 18px;
+    padding: 15px 0px;
+}
+.search_b{
+    border-radius: 0px;
+    background-color: #f8f7f3;
+}
+input.form-control.search_b {
+    width: 51%;
+    height: 46px;
+    padding: 0px 20px;
+
+}
+.blog_trends{
+    font-weight: 600;
+    margin: 14px 0px 25px;
+    font-size: 25px;
+}
+.date_1{
+    font-size: 12px;
+    letter-spacing: 1px;
+    margin-top: 25px;
+}
+.resent_post{
+    font-size: 22px;
+    font-weight: 600;
+}
+.post_box{
+    background-color: #f8f7f3;
+    padding: 20px 20px;
+
+}

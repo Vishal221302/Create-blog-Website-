@@ -1,0 +1,10 @@
+@media  screen and (max-width: 480px) {
+    .sliderC {
+        background-color: #f8f7f3;
+        padding: 0px;
+        color: black;
+    }
+    .text-right {
+        text-align: left!important;
+    }
+}
